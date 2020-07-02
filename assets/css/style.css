@@ -431,7 +431,6 @@ nav ul li a {
   width: 230px;
   border: 1px solid black;
   -o-object-fit: cover;
-  object-fit: cover;
 }
 
 /*--------------------------------------------------------------
