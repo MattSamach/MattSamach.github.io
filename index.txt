@@ -110,8 +110,13 @@
                 <li class="filter" data-filter=".writing">writing</li>
                 <li class="filter" data-filter=".machine_learning">machine learning</li>
                 <li class="filter" data-filter=".policy">policy</li>
-                <li class="filter" data-filter=".data_viz">data visualization</li>
                 <li class="filter" data-filter=".maps">maps</li>
+
+                <!-- 
+                <li class="filter" data-filter=".uikits">ui kits</li>
+                <li class="filter" data-filter=".webdesign">web design</li>
+                <li class="filter" data-filter=".photography">photography</li>
+              -->
               </ul>
             </div>
 
@@ -119,20 +124,19 @@
 
               <div class = "row">
 
-                <div class="col-lg-4 col-md-6 portfolio-thumbnail all writing policy maps code data_viz">
+                <div class="col-lg-4 col-md-3 portfolio-thumbnail all writing policy maps code">
                   <a class="popup-img" href="portfolio_files\Beyond the East Busway - Heinz Systems Report (2020).pdf">
                     <img src="portfolio_files\Beyond_the_Busway_System_Report.png" alt="img"> <!-- alt = "img" -->
                   </a>
-                    <p><h6><a href="portfolio_files\Beyond the East Busway - Heinz Systems Report (2020).pdf">Report</a></h6> (Group) | "Beyond the East Busway: Extending Bus Rapid Transit-Style Improvements to the Mon Valley, Monroeville, and  Eastern Suburbs to Enhance Transit in the Short-Term." (May 2020) </p>
-                    
+                    <p> <h6><a href="portfolio_files\Beyond the East Busway - Heinz Systems Report (2020).pdf">Report </h6></a> (Group) | "Beyond the East Busway: Extending Bus Rapid Transit-Style Improvements to the Mon Valley, Monroeville, and  Eastern Suburbs to Enhance Transit in the Short-Term." (May 2020)</p>
                     <p><h6>Role</h6>: Data Coordinator/Analyst</p>
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-thumbnail all writing machine_learning code">
                   <a class="popup-img" href="portfolio_files\Bus Routing Optimization - Last Mile.pdf">
-                    <img src="portfolio_files\Bus_stops.png" alt="img">
+                    <img src="portfolio_files\Bus_stops.png" alt="img"> <!-- alt = "img" -->
                   </a>
-                    <p><h6><a href="portfolio_files\Bus Routing Optimization - Last Mile.pdf">Report </a></h6> and <h6><a href="https://github.com/MattSamach/Last-Mile-Bus-Route-Optimization">Python Code Sample </a></h6> (Group) | "Nonlinear Optimization Application to Last Mile Bus Routing Problem." (May 2020)</p>
+                    <p><h6><a href="portfolio_files\Bus Routing Optimization - Last Mile.pdf">Report </h6></a> and <h6><a href="https://github.com/MattSamach/Last-Mile-Bus-Route-Optimization">Python Code Sample </h6></a> (Group) | "Nonlinear Optimization Application to Last Mile Bus Routing Problem." (May 2020)</p>
                 </div>
 
                 <div class="col-lg-4 col-md-6 portfolio-thumbnail all writing machine_learning code">
@@ -164,23 +168,11 @@
                   <a class="popup-img" href="portfolio_files\Minimum Wage Econometrics Critique.pdf">
                     <img src="portfolio_files\Critical Policy.png" alt="img">
                   </a>
-                    <p> <h6><a href="portfolio_files\Minimum Wage Econometrics Critique.pdf"> Research Critique</a></h6> (Individual) | Critical Analysis of  Paper, "Employment effects of the new German minimum wage: Evidence from establishment-level micro data" by Bossler, et al. (December 2019)</p>
+                    <p> <h6><a href="portfolio_files\Minimum Wage Econometrics Critique.pdf"> Research Critique</h6></a> (Individual) | Critical analysis of the paper, "Employment effects of the new German minimum wage: Evidence from establishment-level micro data" by Bossler, et al. (December 2019)</p>
 
                 </div>
 
               </div>
-
-              <div class = "row">
-
-                <div class="col-lg-4 col-md-6 portfolio-thumbnail all maps code data_viz">
-                  <a class="popup-img" href="https://mattsamach.shinyapps.io/group_11_final/">
-                    <img src="portfolio_files\Kickstarter.png" alt="img"> <!-- alt = "img" -->
-                  </a>
-                    <p><h6><a href="https://mattsamach.shinyapps.io/group_11_final/">R Shiny Dashboard</a></h6> and <h6><a href="https://github.com/MattSamach/KickstarterViz">R Code</a></h6> (Group) | "Dashboard Visualizing Dataset Detailing Years of Kickstarter Projects. Includes Categorical, Geographical, and sStatistical Analysis." (December 2018) </p>
-                </div>
-
-              </div>
-
 
             </div>
 
